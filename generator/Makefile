@@ -149,6 +149,7 @@ mibs: \
   $(MIBDIR)/LIEBERT_GP_PDU.MIB \
   $(MIBDIR)/CyberPower.MIB \
   $(MIBDIR)/EAP.MIB \
+  $(MIBDIR)/SOPHOS-XG-MIB20.txt \
   $(MIBDIR)/EAP-Client.MIB
 
 $(MIBDIR)/apc-powernet-mib:
